@@ -60,7 +60,7 @@ Cada pasta de lição deve conter:
 
 ## Como contribuir
 
-- Adicione novos exemplos e exercícios dentro da pasta do tema correspondente.
+- Adicione novos exemplos e exercícios dentro da pasta do tema banana.
 - Mantenha o código simples e comentado, priorizando clareza para quem está aprendendo.
 - Ao criar um novo tema, siga o padrão de nomenclatura `NN-nome-do-tema/`.
 
